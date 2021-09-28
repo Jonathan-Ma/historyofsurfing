@@ -1,0 +1,28 @@
+body{
+  background-image: url("surf.jpg");
+}
+
+h1{
+  color: coral;
+  font-family: "Original Surfer";
+  margin-top: 100px;
+  font-size: 80px;
+  text-align: center
+}
+p{
+  color: coral;
+  font-size: 30px;
+}
+img{
+  width: 300px;
+  margin-left: 100px;
+}
+.first-txt {
+  position: absolute;
+  top: 17px;
+  left: 50px;
+}
+.gfg {
+  margin: 3%;
+  position: relative;
+}
